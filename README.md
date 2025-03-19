@@ -11,7 +11,7 @@
 
 - 🌱 Exploring the exciting world of **Blockchain** and its potential for the web.
   
-- 👨‍💻 Check out my portfolio: [solodevportfolio.vercel.app](https://solodevportfolio.vercel.app)
+- 👨‍💻 Check out my portfolio: [solomongetnet.vercel.app](https://solomongetnet.vercel.app)
    
 - 🤝 Open to collaborating on **MERN stack, Next.js, Flask, and FastAPI projects.**
   
