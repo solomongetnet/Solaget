@@ -17,7 +17,7 @@
   
 - 💬 Ask me about **building interactive, optimized web apps** or **tech trends.**
   
-- 📫 Reach me at **solomongetnetofficial@gmail.com**
+- 📫 Reach me at **solomongetnet.dev@gmail.com**
  
 <br/>
 <h3 align="left">Connect with me:</h3>
